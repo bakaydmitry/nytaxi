@@ -18,7 +18,4 @@
 Демонстрация результатов работы:
 1) [Карта](https://github.com/bakaydmitry/nytaxi/blob/master/map.html) с визуализацией реального и прогнозируемого спроса на такси в выбираемый пользователем момент времени
 2) [Временной ряд](https://github.com/bakaydmitry/nytaxi/blob/master/curves.html) фактического и прогнозируемого спроса на такси в выбираемой области
-
-Из-за большого размера получившихся html файлов, для более удобного просмора были сделаны сокращенные версии:
-1) [Карта](https://github.com/bakaydmitry/nytaxi/blob/master/map_light.html)
-2) [Временной ряд](https://github.com/bakaydmitry/nytaxi/blob/master/curves_light.html)
+3) [Ноутбук](https://github.com/bakaydmitry/nytaxi/blob/master/week7.ipynb.html) с исходным кодом и сокращенной версией карты и временного ряда
