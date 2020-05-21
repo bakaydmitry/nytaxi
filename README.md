@@ -16,6 +16,6 @@
 В качестве итоговой модели был выбран XGBoost. Средняя абсолютная ошибка - 15.23
 
 Демонстрация результатов работы:
-1) [Карта](https://github.com/bakaydmitry/nytaxi/archive/master/map.zip) с визуализацией реального и прогнозируемого спроса на такси в выбираемый пользователем момент времени
-2) [Временной ряд](https://github.com/bakaydmitry/nytaxi/blob/archive/curves.zip) фактического и прогнозируемого спроса на такси в выбираемой области
+1) [Карта](https://github.com/bakaydmitry/nytaxi/raw/master/map.zip) с визуализацией реального и прогнозируемого спроса на такси в выбираемый пользователем момент времени
+2) [Временной ряд](https://github.com/bakaydmitry/nytaxi/raw/master/curves.zip) фактического и прогнозируемого спроса на такси в выбираемой области
 3) [Ноутбук](https://github.com/bakaydmitry/nytaxi/blob/master/week7.ipynb) с исходным кодом и GIF версией карты и временного ряда
